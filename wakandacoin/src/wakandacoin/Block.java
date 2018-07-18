@@ -30,6 +30,7 @@ public class Block {
 				);
 		return calculatedhash;
 	}
+<<<<<<< HEAD
 	
 	//Increases nonce value until hash target is reached.
 	public void mineBlock(int difficulty) {
@@ -59,3 +60,6 @@ public class Block {
 	}
 	
 }
+=======
+}
+>>>>>>> 07239be0f5e897df9e1066809dcc4e5a4d58d2eb
