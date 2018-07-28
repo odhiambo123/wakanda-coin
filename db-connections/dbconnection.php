@@ -1,6 +1,6 @@
 <?php
 
-    mysqli_connect("localhost", "cl29-users-bzh", "YTTMcfhK.");
+    mysqli_connect("server", "db", "password");
 
     if (mysqli_connect_error()) {
         

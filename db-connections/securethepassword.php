@@ -1,6 +1,6 @@
 <?php
 
-	// $salt = "isefjfehi2736582KUFED";
+	// $salt = "isefjfehi2736582KUFED"; if you use salt instead
 
 	$row['id'] = 73;
 
