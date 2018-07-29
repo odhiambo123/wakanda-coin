@@ -1,7 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac68846a-0dab-462a-bee4-f71b2534bd21" name="Default" comment="" />
+    <list default="true" id="ac68846a-0dab-462a-bee4-f71b2534bd21" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/caches/build_file_checksums.ser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/gradle.xml" afterPath="$PROJECT_DIR$/WakandaAPP/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_23_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_appcompat_v7_23_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_2_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_mediarouter_v7_23_0_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_multidex_1_0_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_multidex_1_0_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_multidex_instrumentation_1_0_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_support_annotations_23_4_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_support_v4_23_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_android_support_support_vector_drawable_23_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_analytics_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_analytics_impl_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_appindexing_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_appinvite_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_base_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_cast_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_cast_framework_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_clearcut_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_contextmanager_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_drive_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_fitness_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_games_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_gcm_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_identity_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_iid_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_location_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_nearby_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_panorama_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_places_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_plus_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_tagmanager_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_tagmanager_api_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_vision_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_wallet_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_android_gms_play_services_wearable_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_auth_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_auth_common_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_auth_module_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_common_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_config_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_crash_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_database_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_iid_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_storage_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_9_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_parse_bolts_bolts_tasks_1_4_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/libraries/Gradle__com_parse_parse_android_1_13_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/misc.xml" afterPath="$PROJECT_DIR$/WakandaAPP/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/modules.xml" afterPath="$PROJECT_DIR$/WakandaAPP/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/.idea/workspace.xml" afterPath="$PROJECT_DIR$/WakandaAPP/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/WakandaAPP.iml" afterPath="$PROJECT_DIR$/WakandaAPP/WakandaAPP.iml" />
+      <change beforePath="$PROJECT_DIR$/WakandaAPP/src/main/java/com/parse/starter/StarterApplication.java" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +109,10 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,30 +235,30 @@
     <frame x="18" y="33" width="1296" height="880" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24941176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">

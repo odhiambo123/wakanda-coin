@@ -1,0 +1,7 @@
+#Sat Jul 28 20:35:44 PDT 2018
+base.0=/Users/developer/Desktop/version-control/wakanda-coin/WakandaAPP/WakandaAPP/build/intermediates/transforms/dexMerger/debug/10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/developer/Desktop/version-control/wakanda-coin/WakandaAPP/WakandaAPP/build/intermediates/transforms/dexMerger/debug/10
