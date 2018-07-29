@@ -230,7 +230,7 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/develope
 MERGED from [com.android.support:support-v4:23.4.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/35bccde1d96841ba9fe9d2162d70fb0a/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/35bccde1d96841ba9fe9d2162d70fb0a/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/developer/Desktop/version-control/wakanda-coin/WakandaAPP/WakandaAPP/src/main/AndroidManifest.xml:21:9-41
+		ADDED from /Users/developer/Desktop/version-control/wakanda-coin/WakandaAPP/WakandaAPP/src/main/AndroidManifest.xml:21:9-35
 	android:icon
 		ADDED from /Users/developer/Desktop/version-control/wakanda-coin/WakandaAPP/WakandaAPP/src/main/AndroidManifest.xml:20:9-43
 	android:allowBackup
@@ -242,7 +242,7 @@ MERGED from [com.android.support:support-v4:23.4.0] /Users/developer/.gradle/cac
 activity#com.parse.starter.MainActivity
 ADDED from /Users/developer/Desktop/version-control/wakanda-coin/WakandaAPP/WakandaAPP/src/main/AndroidManifest.xml:23:9-31:20
 	android:label
-		ADDED from /Users/developer/Desktop/version-control/wakanda-coin/WakandaAPP/WakandaAPP/src/main/AndroidManifest.xml:25:13-45
+		ADDED from /Users/developer/Desktop/version-control/wakanda-coin/WakandaAPP/WakandaAPP/src/main/AndroidManifest.xml:25:13-39
 	android:name
 		ADDED from /Users/developer/Desktop/version-control/wakanda-coin/WakandaAPP/WakandaAPP/src/main/AndroidManifest.xml:24:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER

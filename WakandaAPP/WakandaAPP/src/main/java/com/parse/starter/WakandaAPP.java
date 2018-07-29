@@ -30,9 +30,9 @@ public class WakandaAPP extends Application {
 
     // Add your initialization code here
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
-            .applicationId("628ff62d894d67125d2f8fe477df680f741728cb")
-            .clientKey("8b15bced4e84211b3dfd59c253f1c244a91a705e")
-            .server("http://13.56.193.89:80/parse/")
+            .applicationId("")
+            .clientKey("")
+            .server("")
             .build()
     );
 
